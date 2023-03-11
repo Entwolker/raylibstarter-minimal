@@ -31,7 +31,7 @@ int main() {
             // ...
             // ...
             ClearBackground(WHITE);
-            DrawText("Nonsch", 10, 10, 30, LIGHTGRAY);
+            DrawText("Non", 10, 10, 30, LIGHTGRAY);
             DrawTexture(myTexture, 10, 100, WHITE);
 
         EndDrawing();
